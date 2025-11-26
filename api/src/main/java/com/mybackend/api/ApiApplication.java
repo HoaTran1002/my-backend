@@ -1,4 +1,4 @@
-package com.mybackend.api.controller;
+package com.mybackend.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
